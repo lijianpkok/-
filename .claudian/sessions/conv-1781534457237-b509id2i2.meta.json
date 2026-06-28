@@ -1,0 +1,26 @@
+{
+  "id": "conv-1781534457237-b509id2i2",
+  "providerId": "claude",
+  "title": "###",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1781534457241,
+  "updatedAt": 1782619291132,
+  "lastResponseAt": 1782619291132,
+  "sessionId": "1e337249-e994-44e2-8308-bbae6a9daf58",
+  "providerState": {
+    "providerSessionId": "1e337249-e994-44e2-8308-bbae6a9daf58"
+  },
+  "externalContextPaths": [
+    "E:\\University\\obsidian\\嵌入式学习\\嵌入式学习资料"
+  ],
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 404,
+    "cacheReadInputTokens": 69693,
+    "contextWindow": 200000,
+    "contextTokens": 70105,
+    "percentage": 35,
+    "contextWindowIsAuthoritative": true
+  }
+}
